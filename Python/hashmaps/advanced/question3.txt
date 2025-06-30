@@ -1,0 +1,16 @@
+Find the longest substring with k unique characters
+Source: https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/
+
+Given a string S and an integer k, find the length of the longest substring that contains exactly k unique characters.
+
+Example 1:
+Input: S = "aabbcc", k = 1
+Output: 2
+
+Example 2:
+Input: S = "aabbcc", k = 2
+Output: 4
+
+Example 3:
+Input: S = "aabbcc", k = 3
+Output: 6 
