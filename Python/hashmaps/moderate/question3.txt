@@ -1,0 +1,12 @@
+Group all anagrams in an array of strings
+Source: https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
+
+Given an array of strings, print all anagrams together.
+
+Example 1:
+Input: arr = ["cat", "dog", "tac", "god", "act"]
+Output: [["cat", "tac", "act"], ["dog", "god"]]
+
+Example 2:
+Input: arr = ["listen", "silent", "enlist", "google", "gooegl"]
+Output: [["listen", "silent", "enlist"], ["google", "gooegl"]] 
