@@ -1,19 +1,16 @@
-# Hashmaps – Basic Level
+# Hashmaps – Basic
 
-This folder contains basic-level hashmap interview questions and clean Python solutions, sourced from real interviews (mainly GeeksforGeeks). Each problem includes the original link, sample input/output, and a well-documented answer.
+This section contains basic-level interview questions and solutions related to hashmaps. Each problem is sourced from reputable sites (e.g., GeeksforGeeks) and includes a clear Python solution.
 
-## Questions Included
-1. **Find whether an array is a subset of another array**  
-   [GeeksforGeeks Problem](https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/)
-2. **Find the first non-repeating character in a string**  
-   [GeeksforGeeks Problem](https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/)
-3. **Find the pair with given sum in an array**  
-   [GeeksforGeeks Problem](https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/)
+## Structure
+- `questionX.txt`: Contains a real interview question with a source link and sample input/output.
+- `answerX.py`: Contains a clean, well-documented Python solution for the corresponding question.
 
 ## Usage
-- Read each `questionX.txt` for the problem statement and sample input/output.
-- Review the corresponding `answerX.py` for a clean, professional Python solution.
-- Use these as a reference for interviews or DSA practice.
+1. Read the question in `questionX.txt`.
+2. Review and run the solution in `answerX.py`.
+3. Use these as practice for interviews or as a reference for learning hashmaps.
 
 ---
-*Contributions and suggestions are welcome!* 
+
+Contributions and suggestions are welcome! 
