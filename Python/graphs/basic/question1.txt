@@ -1,0 +1,12 @@
+Breadth First Search (BFS) of Graph
+Source: https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/
+
+Given an undirected graph represented as an adjacency list, perform a Breadth First Search (BFS) traversal starting from vertex 0. Return a list containing the order of traversal.
+
+Example 1:
+Input: V = 5, adj = [[1,2,3], [0], [0,4], [0], [2]]
+Output: 0 1 2 3 4
+
+Example 2:
+Input: V = 3, adj = [[1], [0,2], [1]]
+Output: 0 1 2 
