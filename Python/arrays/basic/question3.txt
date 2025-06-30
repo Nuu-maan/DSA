@@ -1,0 +1,16 @@
+Move all zeroes to end of array
+Source: https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
+
+Given an array of random numbers, Push all the zero's of a given array to the end of the array. For example, if the given arrays is {1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0}, it should be changed to {1, 9, 8, 4, 2, 7, 6, 0, 0, 0, 0}. The order of all other elements should be same.
+
+Example 1:
+Input:
+N = 5
+Arr[] = {3, 5, 0, 0, 4}
+Output: 3 5 4 0 0
+
+Example 2:
+Input:
+N = 4
+Arr[] = {0, 0, 0, 4}
+Output: 4 0 0 0 
