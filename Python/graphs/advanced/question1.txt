@@ -1,0 +1,12 @@
+Strongly Connected Components (Kosaraju's Algorithm)
+Source: https://www.geeksforgeeks.org/strongly-connected-components/
+
+Given a directed graph with V vertices and adjacency list adj, find all strongly connected components (SCCs) using Kosaraju's algorithm. Return the list of SCCs, each as a list of vertices.
+
+Example 1:
+Input: V = 5, adj = [[1], [2,3], [0], [4], []]
+Output: [[0,1,2],[3],[4]]
+
+Example 2:
+Input: V = 4, adj = [[1], [2], [3], [1]]
+Output: [[1,2,3],[0]] 
