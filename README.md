@@ -16,7 +16,7 @@ The repository is organized by programming language, then by topic, and further 
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Trees, Strings, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Trees, Strings, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -27,6 +27,7 @@ As of now, the following sections are fully implemented:
   - Arrays (Basic, Moderate, Advanced)
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
+  - Hashmaps (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -44,6 +45,7 @@ Each problem includes:
 - [Python/arrays/](Python/arrays/) — Arrays problems and solutions
 - [Python/dynamic_programming/](Python/dynamic_programming/) — Dynamic Programming problems and solutions
 - [Python/graphs/](Python/graphs/) — Graphs problems and solutions
+- [Python/hashmaps/](Python/hashmaps/) — Hashmaps problems and solutions
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
