@@ -1,0 +1,12 @@
+Maximum Circular Subarray Sum
+Source: https://www.geeksforgeeks.org/maximum-contiguous-circular-sum/
+
+Given n numbers arranged in a circle, find the maximum sum of consecutive numbers.
+
+Example 1:
+Input: arr[] = {8, -8, 9, -9, 10, -11, 12}
+Output: 22
+
+Example 2:
+Input: arr[] = {10, -3, -4, 7, 6, 5, -4, -1}
+Output: 23 

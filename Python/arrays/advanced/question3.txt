@@ -1,0 +1,8 @@
+Smallest Range Having Elements From K Lists
+Source: https://www.geeksforgeeks.org/find-smallest-range-containing-elements-from-k-lists/
+
+Given k sorted lists of integers, find the smallest range that includes at least one number from each of the k lists.
+
+Example 1:
+Input: arr[] = [[4, 7, 9, 12, 15], [0, 8, 10, 14, 20], [6, 12, 16, 30, 50]]
+Output: [6, 8] 

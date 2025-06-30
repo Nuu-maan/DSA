@@ -1,0 +1,12 @@
+Trapping Rain Water
+Source: https://www.geeksforgeeks.org/trapping-rain-water/
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+Example 1:
+Input: arr[] = {3, 0, 0, 2, 0, 4}
+Output: 10
+
+Example 2:
+Input: arr[] = {7, 4, 0, 9}
+Output: 10 
