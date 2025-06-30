@@ -1,0 +1,12 @@
+Matrix Chain Multiplication
+Source: https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+
+Given a sequence of matrices, find the most efficient way to multiply these matrices together. The problem is not actually to perform the multiplications, but merely to decide in which order to perform the multiplications.
+
+Example 1:
+Input: arr = [1, 2, 3, 4]
+Output: 18
+
+Example 2:
+Input: arr = [10, 20, 30]
+Output: 6000 
