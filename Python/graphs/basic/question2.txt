@@ -1,0 +1,12 @@
+Depth First Search (DFS) of Graph
+Source: https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/
+
+Given an undirected graph represented as an adjacency list, perform a Depth First Search (DFS) traversal starting from vertex 0. Return a list containing the order of traversal.
+
+Example 1:
+Input: V = 4, adj = [[1,2,3], [0], [0], [0]]
+Output: 0 1 2 3
+
+Example 2:
+Input: V = 3, adj = [[1], [0,2], [1]]
+Output: 0 1 2 
