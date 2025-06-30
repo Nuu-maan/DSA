@@ -1,0 +1,12 @@
+Minimum Number of Coins
+Source: https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
+
+Given a value V, if we want to make change for V cents, and we have an infinite supply of each of the denominations in coins[], what is the minimum number of coins to make the change?
+
+Example 1:
+Input: V = 30, coins[] = {25, 10, 5}
+Output: 2
+
+Example 2:
+Input: V = 11, coins[] = {9, 6, 5, 1}
+Output: 2 
