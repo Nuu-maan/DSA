@@ -1,0 +1,12 @@
+Majority Element
+Source: https://www.geeksforgeeks.org/majority-element/
+
+Given an array A of size N, find the majority element. The majority element is the element that appears more than N/2 times. If no such element exists, return -1.
+
+Example 1:
+Input: N = 5, A[] = {3,1,3,3,2}
+Output: 3
+
+Example 2:
+Input: N = 3, A[] = {1,2,3}
+Output: -1 
