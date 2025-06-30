@@ -26,6 +26,7 @@ As of now, the following sections are fully implemented:
 - **Python**
   - Arrays (Basic, Moderate, Advanced)
   - Dynamic Programming (Basic, Moderate, Advanced)
+  - Graphs (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -34,7 +35,7 @@ Each problem includes:
 
 ## 🚧 Coming Soon
 
-- Additional Python topics: Graphs, Trees, Strings, etc.
+- Additional Python topics: Trees, Strings, etc.
 - JavaScript and C++ implementations
 - More problems and solutions
 
@@ -42,6 +43,7 @@ Each problem includes:
 
 - [Python/arrays/](Python/arrays/) — Arrays problems and solutions
 - [Python/dynamic_programming/](Python/dynamic_programming/) — Dynamic Programming problems and solutions
+- [Python/graphs/](Python/graphs/) — Graphs problems and solutions
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
