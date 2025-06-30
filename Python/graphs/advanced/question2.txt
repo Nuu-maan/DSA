@@ -1,0 +1,12 @@
+Minimum Spanning Tree (Kruskal's Algorithm)
+Source: https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm/
+
+Given a connected, undirected, weighted graph with V vertices and a list of edges (u, v, w), find the weight of the Minimum Spanning Tree (MST) using Kruskal's algorithm.
+
+Example 1:
+Input: V = 4, edges = [(0,1,10),(0,2,6),(0,3,5),(1,3,15),(2,3,4)]
+Output: 19
+
+Example 2:
+Input: V = 3, edges = [(0,1,1),(1,2,2),(0,2,3)]
+Output: 3 
