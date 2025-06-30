@@ -1,0 +1,12 @@
+Egg Dropping Puzzle
+Source: https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+
+Given n eggs and k floors, find the minimum number of attempts needed in the worst case to find the critical floor from which the egg can be dropped without breaking.
+
+Example 1:
+Input: n = 2, k = 10
+Output: 4
+
+Example 2:
+Input: n = 3, k = 14
+Output: 4 
