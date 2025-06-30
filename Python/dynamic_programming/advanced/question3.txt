@@ -1,0 +1,12 @@
+Palindrome Partitioning
+Source: https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
+
+Given a string, partition it such that every substring of the partition is a palindrome. Find the minimum cuts needed for a palindrome partitioning of the string.
+
+Example 1:
+Input: str = "ababbbabbababa"
+Output: 3
+
+Example 2:
+Input: str = "aab"
+Output: 1 
