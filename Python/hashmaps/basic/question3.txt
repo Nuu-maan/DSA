@@ -1,0 +1,16 @@
+Find the pair with given sum in an array
+Source: https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/
+
+Given an array arr[] of n integers and a target value, find whether there is a pair of elements in the array whose sum is equal to target.
+
+Example 1:
+Input: arr[] = [0, -1, 2, -3, 1], target = -2
+Output: Yes
+
+Example 2:
+Input: arr[] = [1, 4, 45, 6, 10, -8], target = 16
+Output: Yes
+
+Example 3:
+Input: arr[] = [1, 2, 4, 3, 6], target = 10
+Output: No 
