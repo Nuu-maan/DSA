@@ -1,0 +1,12 @@
+0-1 Knapsack Problem
+Source: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
+Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Each item can be included or excluded only once.
+
+Example 1:
+Input: W = 50, wt = [10, 20, 30], val = [60, 100, 120], n = 3
+Output: 220
+
+Example 2:
+Input: W = 10, wt = [5, 4, 6, 3], val = [10, 40, 30, 50], n = 4
+Output: 90 
