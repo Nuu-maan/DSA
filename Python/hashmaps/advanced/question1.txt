@@ -1,0 +1,12 @@
+Find the minimum window in a string containing all characters of another string
+Source: https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+
+Given two strings S and T, find the minimum window in S which will contain all the characters in T.
+
+Example 1:
+Input: S = "ADOBECODEBANC", T = "ABC"
+Output: "BANC"
+
+Example 2:
+Input: S = "a", T = "a"
+Output: "a" 
