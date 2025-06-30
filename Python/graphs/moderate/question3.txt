@@ -1,0 +1,12 @@
+Dijkstra’s Shortest Path Algorithm
+Source: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-graph/
+
+Given a weighted, undirected graph with V vertices and adjacency list adj, where each element is a list of (neighbor, weight) pairs, and a source vertex S, find the shortest distance from S to all other vertices.
+
+Example 1:
+Input: V = 5, adj = [ [(1,2),(2,4)], [(0,2),(2,1),(3,7)], [(0,4),(1,1),(4,3)], [(1,7),(4,1)], [(2,3),(3,1)] ], S = 0
+Output: [0, 2, 3, 9, 6]
+
+Example 2:
+Input: V = 3, adj = [ [(1,5)], [(0,5),(2,2)], [(1,2)] ], S = 2
+Output: [7, 2, 0] 
