@@ -28,6 +28,7 @@ As of now, the following sections are fully implemented:
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
   - Hashmaps (Basic, Moderate, Advanced)
+  - Linked Lists (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -46,6 +47,7 @@ Each problem includes:
 - [Python/dynamic_programming/](Python/dynamic_programming/) — Dynamic Programming problems and solutions
 - [Python/graphs/](Python/graphs/) — Graphs problems and solutions
 - [Python/hashmaps/](Python/hashmaps/) — Hashmaps problems and solutions
+- [Python/linked_lists/](Python/linked_lists/) — Linked Lists problems and solutions
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
