@@ -1,0 +1,12 @@
+Check if Linked List is Palindrome
+Source: https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
+
+Given a singly linked list of characters, write a function that returns true if the given list is a palindrome, else false.
+
+Example 1:
+Input: LinkedList: 1->2->1
+Output: Yes
+
+Example 2:
+Input: LinkedList: 1->2->3
+Output: No 
