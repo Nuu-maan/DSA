@@ -1,0 +1,12 @@
+Search an element in a linked list
+Source: https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/
+
+Given a linked list and a key, check if the key is present in the linked list or not.
+
+Example 1:
+Input: LinkedList: 14->21->11->30->10, key = 14
+Output: Yes
+
+Example 2:
+Input: LinkedList: 6->21->17->30->10->8, key = 13
+Output: No 
