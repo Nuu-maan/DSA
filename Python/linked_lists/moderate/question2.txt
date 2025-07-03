@@ -1,0 +1,12 @@
+Add 1 to a number represented as linked list
+Source: https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+
+A number N is represented in linked list such that each digit corresponds to a node in linked list. Add 1 to it.
+
+Example 1:
+Input: LinkedList: 4->5->6
+Output: 4->5->7
+
+Example 2:
+Input: LinkedList: 9->9->9
+Output: 1->0->0->0 
