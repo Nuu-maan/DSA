@@ -1,0 +1,12 @@
+Find length of a linked list
+Source: https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+
+Given a singly linked list, find its length (number of nodes) iteratively and recursively.
+
+Example 1:
+Input: LinkedList: 1->3->1->2->1
+Output: 5
+
+Example 2:
+Input: LinkedList: 2->4->1->9->5->3->6
+Output: 7 
