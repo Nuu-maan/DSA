@@ -1,0 +1,12 @@
+Modify contents of Linked List
+Source: https://www.geeksforgeeks.org/dsa/modify-contents-linked-list/
+
+Given a singly linked list. Modify the value of the first half of nodes such that 1st node's new value is equal to the value of the last node minus the first node's current value, 2nd node's new value is equal to the second last node's value minus 2nd node's current value, and so on. If the size is odd, the value of the middle node remains unchanged.
+
+Example 1:
+Input: LinkedList: 10->4->5->3->6
+Output: -4->-1->5->4->10
+
+Example 2:
+Input: LinkedList: 2->9->8->12->7->10
+Output: 8->-2->4->8->9->2 
