@@ -1,0 +1,12 @@
+Remove duplicates from an unsorted linked list
+Source: https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+
+Given an unsorted linked list of N nodes. The task is to remove duplicate elements from the linked list.
+
+Example 1:
+Input: LinkedList: 5->2->2->4->5->2
+Output: 5 2 4
+
+Example 2:
+Input: LinkedList: 2->2->2->2->2
+Output: 2 
