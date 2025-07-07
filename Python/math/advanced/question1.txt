@@ -1,0 +1,10 @@
+Q1: Count trailing zeroes in factorial of a number
+Source: https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/
+
+Given a number N, count the number of trailing zeroes in N! (N factorial).
+
+Sample Input:
+N = 100
+
+Sample Output:
+24 

@@ -1,0 +1,10 @@
+Q2: Find the nth Fibonacci number efficiently
+Source: https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+
+Given a number N, find the Nth Fibonacci number efficiently (modulo 10^9+7 if needed).
+
+Sample Input:
+N = 10
+
+Sample Output:
+55 

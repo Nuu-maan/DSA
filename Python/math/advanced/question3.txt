@@ -1,0 +1,16 @@
+Q3: Check if a number is a perfect square
+Source: https://www.geeksforgeeks.org/check-if-a-number-is-perfect-square/
+
+Given a number N, check if it is a perfect square.
+
+Sample Input:
+N = 49
+
+Sample Output:
+True
+
+Sample Input:
+N = 50
+
+Sample Output:
+False 
