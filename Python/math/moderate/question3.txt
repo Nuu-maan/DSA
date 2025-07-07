@@ -1,0 +1,11 @@
+Q3: Find LCM of two numbers
+Source: https://www.geeksforgeeks.org/python-program-to-find-lcm/
+
+Given two numbers A and B, find their Least Common Multiple (LCM).
+
+Sample Input:
+A = 15
+B = 20
+
+Sample Output:
+60 
