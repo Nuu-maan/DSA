@@ -1,0 +1,16 @@
+Q2: Find the factorial of a number
+Source: https://www.geeksforgeeks.org/factorial-of-a-number-using-python/
+
+Given a number N, the task is to find the factorial of N.
+
+Sample Input:
+N = 5
+
+Sample Output:
+120
+
+Sample Input:
+N = 0
+
+Sample Output:
+1 
