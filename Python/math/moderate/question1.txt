@@ -1,0 +1,11 @@
+Q1: Find GCD of two numbers
+Source: https://www.geeksforgeeks.org/python-program-to-find-gcd-or-hcf-of-two-numbers/
+
+Given two numbers A and B, find their Greatest Common Divisor (GCD).
+
+Sample Input:
+A = 54
+B = 24
+
+Sample Output:
+6 
