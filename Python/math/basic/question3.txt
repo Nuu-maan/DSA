@@ -1,0 +1,16 @@
+Q3: Check if a number is a palindrome
+Source: https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/
+
+Given a number N, check if it is a palindrome (reads the same backward as forward).
+
+Sample Input:
+N = 121
+
+Sample Output:
+True
+
+Sample Input:
+N = 123
+
+Sample Output:
+False 
