@@ -1,10 +1,13 @@
-Q1: Count trailing zeroes in factorial of a number
-Source: https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/
+Q1: Given an integer n, return the nth digit of the infinite integer sequence [1,2,3,4,5,6,...].
+Source: LeetCode 400 - Nth Digit
 
-Given a number N, count the number of trailing zeroes in N! (N factorial).
+The sequence is formed by concatenating all positive integers: 123456789101112...
 
 Sample Input:
-N = 100
+n = 11
 
 Sample Output:
-24 
+0
+
+Explanation:
+The 11th digit in the sequence is '0' (from the number 10). 
