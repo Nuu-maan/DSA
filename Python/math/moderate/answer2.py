@@ -1,19 +1,27 @@
 """
-Check if two numbers are coprime
-Source: https://www.geeksforgeeks.org/python-program-to-check-co-prime-numbers/
+LeetCode 2447: Number of Subarrays With GCD Equal to K
+Given an array of integers nums and an integer k, return the number of subarrays with GCD equal to k.
 """
+from math import gcd
+from typing import List
 
-def are_coprime(a: int, b: int) -> bool:
-    """Returns True if a and b are coprime (GCD is 1), False otherwise."""
-    def gcd(x: int, y: int) -> int:
-        while y:
-            x, y = y, x % y
-        return abs(x)
-    return gcd(a, b) == 1
+def subarray_gcd(nums: List[int], k: int) -> int:
+    """
+    Returns the number of (contiguous) subarrays whose GCD is exactly k.
+    """
+    n = len(nums)
+    count = 0
+    for i in range(n):
+        g = 0
+        for j in range(i, n):
+            g = gcd(g, nums[j])
+            if g == k:
+                count += 1
+            elif g < k:
+                break
+    return count
 
-# Example usage:
 if __name__ == "__main__":
-    A1, B1 = 5, 9
-    A2, B2 = 6, 8
-    print(are_coprime(A1, B1))  # Output: True
-    print(are_coprime(A2, B2))  # Output: False 
+    nums = [9, 3, 1, 2, 6, 3]
+    k = 3
+    print(subarray_gcd(nums, k))  # Output: 4 
