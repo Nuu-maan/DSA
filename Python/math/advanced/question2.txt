@@ -1,10 +1,14 @@
-Q2: Find the nth Fibonacci number efficiently
-Source: https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+Q2: Given two integers L and R, count the number of prime numbers in the range [L, R] (1 <= L <= R <= 10^12).
+Source: LeetCode Hard / GeeksforGeeks - Segmented Sieve
 
-Given a number N, find the Nth Fibonacci number efficiently (modulo 10^9+7 if needed).
+Given two integers L and R, return the number of prime numbers in the inclusive range [L, R].
 
 Sample Input:
-N = 10
+L = 10
+R = 20
 
 Sample Output:
-55 
+4
+
+Explanation:
+The primes in [10, 20] are 11, 13, 17, 19. 
