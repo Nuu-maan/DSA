@@ -1,18 +1,13 @@
-Q2: Check if two numbers are coprime
-Source: https://www.geeksforgeeks.org/python-program-to-check-co-prime-numbers/
+Q2: Given an array of integers nums and an integer k, return the number of subarrays with GCD equal to k.
+Source: LeetCode 2447 - Number of Subarrays With GCD Equal to K
 
-Given two numbers A and B, check if they are coprime (i.e., their GCD is 1).
-
-Sample Input:
-A = 5
-B = 9
-
-Sample Output:
-True
+Given an array nums and an integer k, count the number of (contiguous) subarrays whose GCD is exactly k.
 
 Sample Input:
-A = 6
-B = 8
+nums = [9, 3, 1, 2, 6, 3], k = 3
 
 Sample Output:
-False 
+4
+
+Explanation:
+The subarrays are [9,3], [3], [3,6], [6,3]. 
