@@ -16,7 +16,7 @@ The repository is organized by programming language, then by topic, and further 
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Trees, Strings, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Trees, Strings, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -29,6 +29,9 @@ As of now, the following sections are fully implemented:
   - Graphs (Basic, Moderate, Advanced)
   - Hashmaps (Basic, Moderate, Advanced)
   - Linked Lists (Basic, Moderate, Advanced)
+  - Math (Basic, Moderate, Advanced)
+    - Basic: GeeksforGeeks problems
+    - Moderate & Advanced: LeetCode interview-level problems
 
 Each problem includes:
 - A real interview question (with source link)
@@ -48,6 +51,7 @@ Each problem includes:
 - [Python/graphs/](Python/graphs/) — Graphs problems and solutions
 - [Python/hashmaps/](Python/hashmaps/) — Hashmaps problems and solutions
 - [Python/linked_lists/](Python/linked_lists/) — Linked Lists problems and solutions
+- [Python/math/](Python/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
