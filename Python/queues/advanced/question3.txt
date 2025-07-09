@@ -1,0 +1,14 @@
+The Maze II
+Source: https://leetcode.com/problems/the-maze-ii/
+
+Problem:
+There is a ball in a maze with empty spaces and walls. The ball can go through empty spaces by rolling up, down, left, or right, but it won't stop until it hits a wall. When the ball stops, it could choose the next direction.
+
+Given the ball's start position, the destination, and the maze, find the shortest distance for the ball to stop at the destination. If the ball cannot stop at the destination, return -1.
+
+The maze is represented by a 2D array. 1 means wall, 0 means empty space.
+
+Example:
+Input: maze = [[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]], start = [0,4], destination = [4,4]
+Output: 12
+Explanation: The shortest distance is 12. 
