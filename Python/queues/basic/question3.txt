@@ -1,0 +1,21 @@
+Implement a Queue using Two Stacks
+Source: https://www.geeksforgeeks.org/queue-using-stacks/
+
+Problem:
+Implement a queue using two stacks in Python. The queue should support the following operations:
+- enqueue(x): Add element x to the end of the queue
+- dequeue(): Remove and return the element from the front of the queue
+- is_empty(): Return True if the queue is empty, else False
+
+Sample Input/Output:
+Input:
+q = QueueUsingStacks()
+q.enqueue(10)
+q.enqueue(20)
+print(q.dequeue())
+q.enqueue(30)
+print(q.dequeue())
+
+Output:
+10
+20 
