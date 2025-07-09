@@ -1,11 +1,13 @@
-Q1: Find GCD of two numbers
-Source: https://www.geeksforgeeks.org/python-program-to-find-gcd-or-hcf-of-two-numbers/
+Q1: Given an array of N integers, count the number of pairs (i, j) such that 1 <= i < j <= N and GCD(A[i], A[j]) = 1.
+Source: Inspired by advanced GCD pair problems on LeetCode/GeeksforGeeks
 
-Given two numbers A and B, find their Greatest Common Divisor (GCD).
+Given an array A of N positive integers, find the number of unordered pairs (i, j) such that i < j and GCD(A[i], A[j]) = 1.
 
 Sample Input:
-A = 54
-B = 24
+A = [2, 3, 4, 5]
 
 Sample Output:
-6 
+4
+
+Explanation:
+The pairs are (2,3), (2,5), (3,4), (3,5). 
