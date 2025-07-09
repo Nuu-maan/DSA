@@ -1,0 +1,26 @@
+Implement a Circular Queue
+Source: https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
+
+Problem:
+Implement a circular queue data structure using an array in Python. The queue should support the following operations:
+- enqueue(x): Add element x to the end of the queue
+- dequeue(): Remove and return the element from the front of the queue
+- front(): Return the element at the front without removing it
+- is_empty(): Return True if the queue is empty, else False
+- is_full(): Return True if the queue is full, else False
+
+Sample Input/Output:
+Input:
+cq = CircularQueue(3)
+cq.enqueue(1)
+cq.enqueue(2)
+cq.enqueue(3)
+print(cq.is_full())
+print(cq.dequeue())
+cq.enqueue(4)
+print(cq.front())
+
+Output:
+True
+1
+2 
