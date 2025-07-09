@@ -1,0 +1,18 @@
+Design Hit Counter
+Source: https://leetcode.com/problems/design-hit-counter/
+
+Problem:
+Design a hit counter which counts the number of hits received in the past 5 minutes (i.e., past 300 seconds).
+
+Implement the HitCounter class:
+- HitCounter() Initializes the object of the hit counter system.
+- void hit(int timestamp) Records a hit that happened at timestamp (in seconds). Multiple hits may happen at the same timestamp.
+- int getHits(int timestamp) Returns the number of hits in the past 5 minutes from timestamp (i.e., the number of hits that happened in the inclusive range [timestamp - 299, timestamp]).
+
+Sample Input/Output:
+Input:
+["HitCounter","hit","hit","hit","getHits","hit","getHits","getHits"]
+[[],[1],[2],[3],[4],[300],[300],[301]]
+
+Output:
+[null,null,null,null,3,null,4,3] 
