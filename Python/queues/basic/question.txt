@@ -1,0 +1,22 @@
+Implement a Queue using an Array
+Source: https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+
+Problem:
+Implement a queue data structure using an array in Python. The queue should support the following operations:
+- enqueue(x): Add element x to the end of the queue
+- dequeue(): Remove and return the element from the front of the queue
+- front(): Return the element at the front without removing it
+- is_empty(): Return True if the queue is empty, else False
+
+Sample Input/Output:
+Input:
+q = Queue(5)
+q.enqueue(10)
+q.enqueue(20)
+q.enqueue(30)
+print(q.dequeue())
+print(q.front())
+
+Output:
+10
+20 
