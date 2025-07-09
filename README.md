@@ -30,8 +30,6 @@ As of now, the following sections are fully implemented:
   - Hashmaps (Basic, Moderate, Advanced)
   - Linked Lists (Basic, Moderate, Advanced)
   - Math (Basic, Moderate, Advanced)
-    - Basic: GeeksforGeeks problems
-    - Moderate & Advanced: LeetCode interview-level problems
 
 Each problem includes:
 - A real interview question (with source link)
