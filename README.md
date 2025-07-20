@@ -16,7 +16,7 @@ The repository is organized by programming language, then by topic, and further 
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Trees, Strings, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Trees, Strings, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -31,6 +31,7 @@ As of now, the following sections are fully implemented:
   - Linked Lists (Basic, Moderate, Advanced)
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -52,6 +53,7 @@ Each problem includes:
 - [Python/linked_lists/](Python/linked_lists/) — Linked Lists problems and solutions
 - [Python/math/](Python/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/queues/](Python/queues/) — Queues problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [Python/recursion/](Python/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
