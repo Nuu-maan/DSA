@@ -1,6 +1,6 @@
 # Advanced Searching Problems
 
-This folder contains challenging searching algorithm problems, typically found on LeetCode. Each problem includes:
+This folder contains extremely challenging searching algorithm problems, typically found on LeetCode. Each problem includes:
 
 - `questionX.txt`: The interview question with a source link
 - `answerX.py`: A clean, type-safe Python solution with docstrings and sample usage
@@ -9,9 +9,9 @@ This folder contains challenging searching algorithm problems, typically found o
 
 ## Problems
 
-1. [ ] Problem 1
-2. [ ] Problem 2
-3. [ ] Problem 3
+1. [Split Array Largest Sum](question1.txt) ([LeetCode](https://leetcode.com/problems/split-array-largest-sum/))
+2. [Find the Duplicate Number](question2.txt) ([LeetCode](https://leetcode.com/problems/find-the-duplicate-number/))
+3. [Find Minimum in Rotated Sorted Array II](question3.txt) ([LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/))
 
 ---
 
