@@ -32,6 +32,7 @@ As of now, the following sections are fully implemented:
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Searching (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -54,6 +55,7 @@ Each problem includes:
 - [Python/math/](Python/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/queues/](Python/queues/) — Queues problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/recursion/](Python/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [Python/searching/](Python/searching/) — Searching problems and solutions
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
