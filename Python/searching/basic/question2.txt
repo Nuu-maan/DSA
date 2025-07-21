@@ -1,0 +1,15 @@
+Problem: Binary Search
+Source: https://www.geeksforgeeks.org/binary-search/
+
+Given a sorted array arr[] of n elements and a value x, write a function to search x in arr[].
+A simple approach is to do linear search. The time complexity of the simple solution is O(n). Another approach to perform the same task is using Binary Search.
+
+Example 1:
+Input: arr[] = [1, 5, 8, 12, 20], x = 12
+Output: 3
+Explanation: Element x is present at index 3.
+
+Example 2:
+Input: arr[] = [2, 4, 6, 8, 10], x = 7
+Output: -1
+Explanation: Element x is not present in arr[]. 
