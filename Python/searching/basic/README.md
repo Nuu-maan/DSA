@@ -9,9 +9,9 @@ This folder contains fundamental searching algorithm problems commonly asked in 
 
 ## Problems
 
-1. [ ] Problem 1
-2. [ ] Problem 2
-3. [ ] Problem 3
+1. [Linear Search](question1.txt) ([GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/))
+2. [Binary Search](question2.txt) ([GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/))
+3. [Find First and Last Occurrence of an Element in a Sorted Array](question3.txt) ([GeeksforGeeks](https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/))
 
 ---
 
