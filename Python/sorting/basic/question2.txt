@@ -1,0 +1,15 @@
+Sort an array of 0s, 1s and 2s
+
+Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+
+Example 1:
+Input: N = 5
+arr[] = {0 2 1 2 0}
+Output: 0 0 1 2 2
+
+Example 2:
+Input: N = 3
+arr[] = {0 1 0}
+Output: 0 0 1
+
+Source: https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/ 
