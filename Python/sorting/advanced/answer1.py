@@ -29,6 +29,8 @@ def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
         
         maxLeftY = float('-inf') if partitionY == 0 else nums2[partitionY - 1]
         minRightY = float('inf') if partitionY == n else nums2[partitionY]
+
+
         
         # Check if we found the correct partition
         if maxLeftX <= minRightY and maxLeftY <= minRightX:
