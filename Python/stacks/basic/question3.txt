@@ -1,0 +1,47 @@
+Next Greater Element
+
+Problem Description:
+Given an array of integers, find the next greater element for each element in the array. The next greater element for an element x is the first greater element on the right side of x in the array. If no such element exists, output -1 for that element.
+
+For example:
+- For array [4, 5, 2, 25], the next greater elements are:
+  4 --> 5
+  5 --> 25
+  2 --> 25
+  25 --> -1
+
+Use a stack-based approach to solve this problem efficiently.
+
+Input Format:
+- First line contains the number of test cases T
+- For each test case:
+  * First line contains N, the size of array
+  * Second line contains N space-separated integers
+
+Output Format:
+- For each test case, print N space-separated integers denoting the next greater element for each array element
+- If no greater element exists for an element, print -1 for that position
+
+Sample Input:
+2
+4
+4 5 2 25
+3
+13 7 6
+
+Sample Output:
+5 25 25 -1
+-1 -1 -1
+
+Constraints:
+- 1 <= T <= 100
+- 1 <= N <= 10^5
+- 1 <= arr[i] <= 10^6
+
+Notes:
+- The solution should have O(n) time complexity
+- Use a stack to track elements and find next greater elements efficiently
+- Process elements from right to left for optimal solution
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/next-greater-element/ 
