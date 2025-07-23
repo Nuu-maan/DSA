@@ -1,6 +1,22 @@
-# Data Structures and Algorithms (DSA) Repository
+# Data Structures and Algorithms Practice
 
-Welcome to the DSA (Data Structures and Algorithms) repository! This project is designed as a comprehensive resource for mastering DSA concepts, preparing for coding interviews, and practicing real-world problems in multiple programming languages.
+A comprehensive collection of data structures and algorithms problems organized by topic and difficulty level.
+
+## Topics
+
+### Stacks
+- **Basic**: Fundamental stack operations and applications from GeeksforGeeks
+  - Stack implementation with type-safe operations
+  - Infix to postfix conversion
+  - Next greater element
+- **Moderate**: Hard problems from LeetCode
+  - Design min stack with O(1) operations
+  - Largest rectangle in histogram
+  - Basic calculator with parentheses
+- **Advanced**: Very hard problems from LeetCode
+  - Maximum frequency stack
+  - Longest valid parentheses
+  - Basic calculator III with advanced operations
 
 ## 📚 Repository Structure
 
