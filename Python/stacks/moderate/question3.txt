@@ -1,0 +1,52 @@
+Basic Calculator
+
+Problem Description:
+Given a string s representing a valid expression, implement a basic calculator to evaluate it and return the result of the evaluation.
+
+The expression string may contain:
+- Open ( and closing parentheses )
+- Plus + or minus - signs
+- Non-negative integers
+- Spaces
+
+Input Format:
+s = "1 + 1"
+
+Output Format:
+2
+
+Example 1:
+Input: s = "1 + 1"
+Output: 2
+
+Example 2:
+Input: s = " 2-1 + 2 "
+Output: 3
+
+Example 3:
+Input: s = "(1+(4+5+2)-3)+(6+8)"
+Output: 23
+
+Example 4:
+Input: s = "2147483647"
+Output: 2147483647
+
+Constraints:
+- 1 <= s.length <= 3 * 10^5
+- s consists of digits, '+', '-', '(', ')', and ' '.
+- s represents a valid expression
+- '+' is not used as a unary operation (i.e., "+1" and "+(2 + 3)" is invalid)
+- '-' could be used as a unary operation (i.e., "-1" and "-(2 + 3)" is valid)
+- Every number in the expression will be in the range [-2^31, 2^31 - 1]
+- The answer is guaranteed to fit in a 32-bit integer
+
+Notes:
+- Use a stack to handle parentheses
+- Process numbers and operators carefully
+- Handle negative numbers and spaces
+- Consider operator precedence
+- Time complexity should be O(n)
+- Space complexity should be O(n)
+
+Source: LeetCode Hard
+Link: https://leetcode.com/problems/basic-calculator/ 
