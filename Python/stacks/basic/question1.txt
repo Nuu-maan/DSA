@@ -1,0 +1,53 @@
+Stack Implementation and Operations
+
+Problem Description:
+Implement a stack data structure that supports the following operations:
+1. push(x) -- Push element x onto stack.
+2. pop() -- Removes the element on top of the stack and returns it.
+3. peek() -- Get the top element.
+4. is_empty() -- Return whether the stack is empty.
+5. size() -- Return the size of the stack.
+
+The stack should handle the following edge cases:
+- Pushing to a full stack should raise an exception
+- Popping from an empty stack should raise an exception
+- Peeking into an empty stack should raise an exception
+
+Input Format:
+- First line contains the number of operations n
+- Next n lines contain operations in one of these formats:
+  * "push x" where x is an integer
+  * "pop"
+  * "peek"
+  * "is_empty"
+  * "size"
+
+Output Format:
+- For push operation: "null" if successful, "Stack is full" if stack is full
+- For pop operation: popped element if successful, "Stack is empty" if stack is empty
+- For peek operation: top element if successful, "Stack is empty" if stack is empty
+- For is_empty operation: "true" if stack is empty, "false" otherwise
+- For size operation: current size of stack
+
+Sample Input:
+5
+push 1
+push 2
+peek
+pop
+is_empty
+
+Sample Output:
+null
+null
+2
+2
+false
+
+Constraints:
+- 1 <= n <= 100
+- -1000 <= x <= 1000 (for push operations)
+- Maximum stack size is 1000
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/stack-data-structure-introduction-program/ 
