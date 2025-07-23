@@ -1,0 +1,48 @@
+Longest Valid Parentheses
+
+Problem Description:
+Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+A valid parentheses string is one that:
+- Contains equal number of opening and closing parentheses
+- Every closing parenthesis has a corresponding opening parenthesis that comes before it
+- Every opening parenthesis has a corresponding closing parenthesis that comes after it
+
+Example 1:
+Input: s = "(()"
+Output: 2
+Explanation: The longest valid parentheses substring is "()"
+
+Example 2:
+Input: s = ")()())"
+Output: 4
+Explanation: The longest valid parentheses substring is "()()"
+
+Example 3:
+Input: s = ""
+Output: 0
+
+Example 4:
+Input: s = "((())"
+Output: 4
+Explanation: The longest valid parentheses substring is "(())"
+
+Example 5:
+Input: s = "()(())"
+Output: 6
+Explanation: The entire string is valid
+
+Constraints:
+- 0 <= s.length <= 3 * 10^4
+- s[i] is '(' or ')'
+
+Notes:
+- Use a stack to track indices of unmatched parentheses
+- Consider using dynamic programming approach
+- Handle edge cases like empty string and single character
+- Consider two-pass solution without extra space
+- Time complexity should be O(n)
+- Space complexity should be O(n) for stack solution, O(1) for two-pass solution
+
+Source: LeetCode Very Hard
+Link: https://leetcode.com/problems/longest-valid-parentheses/ 
