@@ -1,22 +1,6 @@
-# Data Structures and Algorithms Practice
+# Data Structures and Algorithms (DSA) Repository
 
-A comprehensive collection of data structures and algorithms problems organized by topic and difficulty level.
-
-## Topics
-
-### Stacks
-- **Basic**: Fundamental stack operations and applications from GeeksforGeeks
-  - Stack implementation with type-safe operations
-  - Infix to postfix conversion
-  - Next greater element
-- **Moderate**: Hard problems from LeetCode
-  - Design min stack with O(1) operations
-  - Largest rectangle in histogram
-  - Basic calculator with parentheses
-- **Advanced**: Very hard problems from LeetCode
-  - Maximum frequency stack
-  - Longest valid parentheses
-  - Basic calculator III with advanced operations
+Welcome to the DSA (Data Structures and Algorithms) repository! This project is designed as a comprehensive resource for mastering DSA concepts, preparing for coding interviews, and practicing real-world problems in multiple programming languages.
 
 ## 📚 Repository Structure
 
@@ -32,7 +16,7 @@ The repository is organized by programming language, then by topic, and further 
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Sorting, Trees, Strings, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Sorting, Stacks, Trees, Strings, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -50,6 +34,7 @@ As of now, the following sections are fully implemented:
   - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Searching (Basic, Moderate, Advanced)
   - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -74,6 +59,7 @@ Each problem includes:
 - [Python/recursion/](Python/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/searching/](Python/searching/) — Searching problems and solutions
 - [Python/sorting/](Python/sorting/) — Sorting problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [Python/stacks/](Python/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
