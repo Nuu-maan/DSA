@@ -1,0 +1,38 @@
+Check if String is Rotated by Two Places
+
+Problem Description:
+Given two strings s1 and s2, write a function to check if s2 is a rotation of s1 by exactly 2 places.
+The rotation can be either left or right rotation.
+
+Note:
+1. A left rotation by 2 places means removing first 2 characters and adding them at the end
+2. A right rotation by 2 places means removing last 2 characters and adding them at the beginning
+3. Both strings contain only lowercase English letters
+
+Example 1:
+Input: s1 = "amazon", s2 = "azonam"
+Output: true
+Explanation: "amazon" -> "azonam" (left rotation by 2 places)
+
+Example 2:
+Input: s1 = "amazon", s2 = "onamaz"
+Output: true
+Explanation: "amazon" -> "onamaz" (right rotation by 2 places)
+
+Example 3:
+Input: s1 = "geeks", s2 = "eksge"
+Output: true
+Explanation: "geeks" -> "eksge" (left rotation by 2 places)
+
+Example 4:
+Input: s1 = "geeks", s2 = "geeks"
+Output: false
+Explanation: No rotation by 2 places gives "geeks"
+
+Constraints:
+- 1 <= |s1|, |s2| <= 100
+- Both strings contain only lowercase English letters
+- Both strings have equal length
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/check-string-can-obtained-rotating-another-string-2-places/ 
