@@ -1,0 +1,46 @@
+Distinct Subsequences
+
+Problem Description:
+Given two strings s and t, return the number of distinct subsequences of s which equals t.
+
+A subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ACE" is a subsequence of "ABCDE" while "AEC" is not).
+
+The test cases are generated so that the answer fits on a 32-bit signed integer.
+
+Note:
+1. A subsequence is different from a substring. Subsequence can skip characters.
+2. The count should include all possible ways to form t from s.
+3. The relative order of characters must be maintained.
+
+Example 1:
+Input: s = "rabbbit", t = "rabbit"
+Output: 3
+Explanation:
+As shown below, there are 3 ways you can generate "rabbit" from s:
+rabb_bit -> rabbit
+rab_bit -> rabbit
+ra_bbit -> rabbit
+
+Example 2:
+Input: s = "babgbag", t = "bag"
+Output: 5
+Explanation:
+As shown below, there are 5 ways you can generate "bag" from s:
+ba_g_bag -> bag
+ba_gb_ag -> bag
+b_agb_ag -> bag
+ba_g_bag -> bag
+babg_bag -> bag
+
+Example 3:
+Input: s = "abc", t = "abc"
+Output: 1
+Explanation: The only way is to keep all characters.
+
+Constraints:
+- 1 <= s.length, t.length <= 1000
+- s and t consist of English letters (lowercase and uppercase)
+- The answer fits in a 32-bit signed integer
+
+Source: LeetCode Hard
+Link: https://leetcode.com/problems/distinct-subsequences/ 
