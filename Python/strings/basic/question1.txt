@@ -1,0 +1,31 @@
+Reverse Words in a String
+
+Problem Description:
+Given a string s containing words separated by spaces, reverse the order of words while preserving the whitespace between words.
+
+Note:
+1. The string may contain leading or trailing spaces
+2. Multiple spaces between two words should be preserved
+3. The order of characters within each word should remain unchanged
+
+Example 1:
+Input: "the sky is blue"
+Output: "blue is sky the"
+Explanation: Reverse the whole string word by word, preserving whitespace.
+
+Example 2:
+Input: "  hello   world  "
+Output: "  world   hello  "
+Explanation: Leading/trailing spaces and multiple spaces between words are preserved.
+
+Example 3:
+Input: "a"
+Output: "a"
+Explanation: Single word remains unchanged.
+
+Constraints:
+- s consists of printable ASCII characters
+- 1 <= s.length <= 10^4
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/reverse-words-in-a-given-string/ 
