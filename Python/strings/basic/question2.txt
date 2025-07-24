@@ -1,0 +1,33 @@
+Longest Common Prefix
+
+Problem Description:
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
+
+Note:
+1. All given inputs are in lowercase letters a-z
+2. The common prefix must be a prefix of ALL strings in the array
+3. Return an empty string if no common prefix exists
+
+Example 1:
+Input: ["flower", "flow", "flight"]
+Output: "fl"
+Explanation: "fl" is the longest prefix common to all strings.
+
+Example 2:
+Input: ["dog", "racecar", "car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+
+Example 3:
+Input: ["interspecies", "interstellar", "interstate"]
+Output: "inters"
+Explanation: The longest common prefix is "inters".
+
+Constraints:
+- 1 <= strs.length <= 200
+- 0 <= strs[i].length <= 200
+- strs[i] consists of only lowercase English letters
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/longest-common-prefix-using-character-by-character-matching/ 
