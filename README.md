@@ -16,7 +16,7 @@ The repository is organized by programming language, then by topic, and further 
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Sorting, Stacks, Trees, Strings, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Sorting, Stacks, Strings, Trees, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -35,6 +35,7 @@ As of now, the following sections are fully implemented:
   - Searching (Basic, Moderate, Advanced)
   - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -43,7 +44,7 @@ Each problem includes:
 
 ## 🚧 Coming Soon
 
-- Additional Python topics: Trees, Strings, etc.
+- Additional Python topics: Trees, etc.
 - JavaScript and C++ implementations
 - More problems and solutions
 
@@ -60,6 +61,7 @@ Each problem includes:
 - [Python/searching/](Python/searching/) — Searching problems and solutions
 - [Python/sorting/](Python/sorting/) — Sorting problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/stacks/](Python/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [Python/strings/](Python/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
