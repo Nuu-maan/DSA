@@ -36,6 +36,7 @@ As of now, the following sections are fully implemented:
   - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Trees (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -44,7 +45,6 @@ Each problem includes:
 
 ## 🚧 Coming Soon
 
-- Additional Python topics: Trees, etc.
 - JavaScript and C++ implementations
 - More problems and solutions
 
@@ -62,6 +62,7 @@ Each problem includes:
 - [Python/sorting/](Python/sorting/) — Sorting problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/stacks/](Python/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/strings/](Python/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [Python/trees/](Python/trees/) — Tree problems and solutions (Basic, Moderate, Advanced)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
