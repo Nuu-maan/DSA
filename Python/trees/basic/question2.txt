@@ -1,0 +1,29 @@
+Height of Binary Tree
+Source: https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/
+
+Given a binary tree, find its height (or depth). The height of a binary tree is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+Example 1:
+Input: 
+    1
+   / \
+  2   3
+ / \
+4   5
+Output: 3
+Explanation: The longest path is 1->2->4 or 1->2->5, both have 3 nodes.
+
+Example 2:
+Input: 
+    1
+     \
+      2
+       \
+        3
+Output: 3
+
+Example 3:
+Input: []
+Output: 0
+
+Note: A leaf is a node with no children.
