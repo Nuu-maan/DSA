@@ -1,0 +1,26 @@
+Find Maximum Element in Array
+Source: https://www.geeksforgeeks.org/c-program-find-largest-element-array/
+
+Given an array of integers, find the maximum element in the array.
+
+Example 1:
+Input: [1, 8, 7, 56, 90]
+Output: 90
+
+Example 2:
+Input: [1, 2, 0, 3, 2, 4, 5]
+Output: 5
+
+Example 3:
+Input: [1]
+Output: 1
+
+Example 4:
+Input: [-1, -2, -3, -4]
+Output: -1
+
+Constraints:
+- 1 <= array.length <= 10^5
+- -10^9 <= array[i] <= 10^9
+
+Note: Implement using various JavaScript approaches including built-in methods, functional programming, and performance optimizations.

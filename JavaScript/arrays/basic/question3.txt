@@ -1,0 +1,26 @@
+Array Rotation
+Source: https://www.geeksforgeeks.org/array-rotation/
+
+Given an array and a number k, rotate the array to the right by k steps.
+
+Example 1:
+Input: nums = [1,2,3,4,5,6,7], k = 3
+Output: [5,6,7,1,2,3,4]
+Explanation: Rotate right by 3 steps
+
+Example 2:
+Input: nums = [-1,-100,3,99], k = 2
+Output: [3,99,-1,-100]
+Explanation: Rotate right by 2 steps
+
+Example 3:
+Input: nums = [1,2], k = 3
+Output: [2,1]
+Explanation: k = 3 is equivalent to k = 1 for array of length 2
+
+Constraints:
+- 1 <= nums.length <= 10^5
+- -2^31 <= nums[i] <= 2^31 - 1
+- 0 <= k <= 10^5
+
+Note: Implement multiple approaches showcasing JavaScript's array methods, ES6+ features, and performance considerations.
