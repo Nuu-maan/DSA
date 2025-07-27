@@ -1,0 +1,18 @@
+Edit Distance
+Source: https://www.geeksforgeeks.org/edit-distance-dp-5/
+
+Given two strings str1 and str2 and below operations that can performed on str1. Find minimum number of edits (operations) required to convert 'str1' into 'str2'.
+
+Insert
+Remove
+Replace
+
+All of the above operations are of equal cost.
+
+Example 1:
+Input: str1 = "geek", str2 = "gesek"
+Output: 1
+
+Example 2:
+Input: str1 = "sunday", str2 = "saturday"
+Output: 3
