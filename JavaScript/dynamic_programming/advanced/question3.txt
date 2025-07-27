@@ -1,0 +1,16 @@
+Palindrome Partitioning
+Source: https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
+
+Given a string, a partitioning of the string is a palindrome partitioning if every substring of the partition is a palindrome. For example, "aba|b|bbabb|a|b|aba" is a palindrome partitioning of "ababbbabbababa". Determine the fewest cuts needed for palindrome partitioning of a given string.
+
+Example 1:
+Input: str = "ababbbabbababa"
+Output: 3
+
+Example 2:
+Input: str = "aaabba"
+Output: 1
+
+Example 3:
+Input: str = "abcde"
+Output: 4
