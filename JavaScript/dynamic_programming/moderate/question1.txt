@@ -1,0 +1,12 @@
+Longest Increasing Subsequence
+Source: https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+
+Given an array of integers, find the length of the longest (strictly) increasing subsequence.
+
+Example 1:
+Input: arr = [10, 22, 9, 33, 21, 50, 41, 60, 80]
+Output: 6
+
+Example 2:
+Input: arr = [3, 10, 2, 1, 20]
+Output: 3
