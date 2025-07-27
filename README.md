@@ -11,12 +11,12 @@ The repository is organized by programming language, then by topic, and further 
   <Topic>/
     <Difficulty>/
       questionX.txt
-      answerX.py
+      answerX.<language_extension>
       README.md
 ```
 
 - **Languages:** Python, JavaScript, C++ 
-- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Sorting, Stacks, Strings, Trees, etc.
+- **Topics:** Arrays, Dynamic Programming, Graphs, Hashmaps, Linked Lists, Math, Queues, Recursion, Searching, Sorting, Stacks, Strings, Trees, etc.
 - **Difficulty Levels:** Basic, Moderate, Advanced
 
 ## ✅ Completed Sections
@@ -28,25 +28,31 @@ As of now, the following sections are fully implemented:
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
   - Hashmaps (Basic, Moderate, Advanced)
-  - Linked Lists (Basic, Moderate, Advanced)
+  - Linked Lists (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
-  - Searching (Basic, Moderate, Advanced)
+  - Searching (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
-  - Trees (Basic, Moderate, Advanced)
+  - Trees (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+
+- **JavaScript**
+  - Arrays (Basic, Moderate, Advanced)
+  - Dynamic Programming (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
-- A clean, professional Python solution
+- A clean, professional solution with multiple approaches
 - Clear file and folder naming for easy navigation
+- Modern language features and idioms (ES6+ for JavaScript)
 
 ## 🚧 Coming Soon
 
-- JavaScript and C++ implementations
-- More problems and solutions
+- C++ implementations
+- More problems and solutions in JavaScript
+- Additional topics in all languages
 
 ## 📂 Table of Contents
 
