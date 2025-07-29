@@ -1,0 +1,19 @@
+Articulation Points (Cut Vertices)
+Source: https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/
+
+Given an undirected graph with V vertices and adjacency list adj, find all articulation points (cut vertices) in the graph. Return the list of articulation points in sorted order.
+
+Example 1:
+Input: V = 5, adj = [[1,2], [0,2], [0,1,3,4], [2,4], [2,3]]
+Output: [2, 3, 4]
+
+Example 2:
+Input: V = 4, adj = [[1], [0,2], [1,3], [2]]
+Output: [1, 2]
+
+Constraints:
+- 1 <= V <= 10^4
+- 1 <= E <= (V*(V-1))/2
+- 0 <= u, v <= V-1
+
+Note: Implement multiple approaches showcasing JavaScript's array methods and ES6+ features.
