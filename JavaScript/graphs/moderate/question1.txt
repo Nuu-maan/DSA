@@ -1,0 +1,26 @@
+Number of Islands
+Source: https://www.geeksforgeeks.org/find-number-of-islands/
+
+Given a 2D grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.
+
+Example 1:
+Input: grid = [
+  ['1','1','0','0','0'],
+  ['1','1','0','0','0'],
+  ['0','0','1','0','0'],
+  ['0','0','0','1','1']
+]
+Output: 3
+
+Example 2:
+Input: grid = [
+  ['1','0','1','0'],
+  ['0','1','0','1']
+]
+Output: 4
+
+Constraints:
+- 1 <= m, n <= 300
+- grid[i][j] is '0' or '1'
+
+Note: Implement multiple approaches showcasing JavaScript's array methods and ES6+ features.
