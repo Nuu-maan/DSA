@@ -1,0 +1,12 @@
+Find the first non-repeating character in a string
+Source: https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+
+Given a string, find the first non-repeating character in it. If all characters are repeating, return -1.
+
+Example 1:
+Input: str = 'geeksforgeeks'
+Output: f
+
+Example 2:
+Input: str = 'aabbcc'
+Output: -1
