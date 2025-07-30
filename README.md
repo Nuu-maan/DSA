@@ -41,6 +41,7 @@ As of now, the following sections are fully implemented:
 - **JavaScript**
   - Arrays (Basic, Moderate, Advanced)
   - Dynamic Programming (Basic, Moderate, Advanced)
+  - Graphs (Basic, Moderate, Advanced)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -50,12 +51,14 @@ Each problem includes:
 
 ## 🚧 Coming Soon
 
-- C++ implementations
-- More problems and solutions in JavaScript
-- Additional topics in all languages
+More topics and languages are coming soon! Planned additions include:
+
+- JavaScript: Linked Lists, Math, Queues, Recursion, Searching, Sorting, Stacks, Strings, Trees
+- C++: All topics in all languages
 
 ## 📂 Table of Contents
 
+### Python
 - [Python/arrays/](Python/arrays/) — Arrays problems and solutions
 - [Python/dynamic_programming/](Python/dynamic_programming/) — Dynamic Programming problems and solutions
 - [Python/graphs/](Python/graphs/) — Graphs problems and solutions
@@ -69,6 +72,13 @@ Each problem includes:
 - [Python/stacks/](Python/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/strings/](Python/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/trees/](Python/trees/) — Tree problems and solutions (Basic, Moderate, Advanced)
+
+### JavaScript
+- [JavaScript/arrays/](JavaScript/arrays/) — Arrays problems and solutions
+- [JavaScript/dynamic_programming/](JavaScript/dynamic_programming/) — Dynamic Programming problems and solutions
+- [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions
+- [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
+
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
