@@ -1,0 +1,25 @@
+Merge k Sorted Lists with Custom Comparator
+
+Problem Statement:
+You are given an array of k linked-lists lists, each linked-list is sorted in ascending order based on a custom comparator function.
+Merge all the linked-lists into one sorted linked-list and return it.
+
+The comparator function takes two nodes and returns:
+- negative value if first node should come before second node
+- zero if nodes are equal
+- positive value if first node should come after second node
+
+Example 1:
+Input: lists = [[1,4,5],[1,3,4],[2,6]], comparator = (a, b) => a.val - b.val
+Output: [1,1,2,3,4,4,5,6]
+
+Example 2:
+Input: lists = [["apple","cherry"],["banana","date"]], comparator = (a, b) => a.val.localeCompare(b.val)
+Output: ["apple","banana","cherry","date"]
+
+Constraints:
+- k == lists.length
+- 0 <= k <= 10^4
+- 0 <= lists[i].length <= 500
+- The values can be of any type that the comparator function can handle
+- The sum of lists[i].length will not exceed 10^4.
