@@ -42,6 +42,7 @@ As of now, the following sections are fully implemented:
   - Arrays (Basic, Moderate, Advanced)
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
+  - Linked Lists (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -73,12 +74,14 @@ More topics and languages are coming soon! Planned additions include:
 - [Python/strings/](Python/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [Python/trees/](Python/trees/) — Tree problems and solutions (Basic, Moderate, Advanced)
 
+
+
 ### JavaScript
 - [JavaScript/arrays/](JavaScript/arrays/) — Arrays problems and solutions
 - [JavaScript/dynamic_programming/](JavaScript/dynamic_programming/) — Dynamic Programming problems and solutions
 - [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions
 - [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
-
+- [JavaScript/linked_lists/](JavaScript/linked_lists/) — Linked Lists problems and solutions
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
