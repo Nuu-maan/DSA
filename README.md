@@ -43,6 +43,7 @@ As of now, the following sections are fully implemented:
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
   - Linked Lists (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -82,6 +83,7 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions
 - [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
 - [JavaScript/linked_lists/](JavaScript/linked_lists/) — Linked Lists problems and solutions
+- [JavaScript/math/](JavaScript/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
