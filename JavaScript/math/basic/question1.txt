@@ -1,0 +1,22 @@
+Count primes in a range
+
+Given two positive integers L and R, count how many prime numbers exist in the range [L, R] (inclusive).
+
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+Examples:
+Input: L = 10, R = 20
+Output: 4
+Explanation: Prime numbers in range [10, 20] are 11, 13, 17, 19
+
+Input: L = 1, R = 10
+Output: 4
+Explanation: Prime numbers in range [1, 10] are 2, 3, 5, 7
+
+Constraints:
+1 <= L <= R <= 10^6
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/count-primes-in-a-given-range/
+
+
