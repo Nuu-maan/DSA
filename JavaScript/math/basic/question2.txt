@@ -1,0 +1,21 @@
+Find GCD of an array of numbers
+
+Given an array of positive integers, find the greatest common divisor (GCD) of all the numbers in the array.
+
+The greatest common divisor (GCD) of a set of integers is the largest positive integer that divides each of the integers.
+
+Examples:
+Input: arr = [12, 18, 24]
+Output: 6
+Explanation: 6 is the largest number that divides 12, 18, and 24
+
+Input: arr = [5, 7, 11]
+Output: 1
+Explanation: 5, 7, and 11 are coprime, so their GCD is 1
+
+Constraints:
+1 <= arr.length <= 10^3
+1 <= arr[i] <= 10^9
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/gcd-two-array-numbers/
