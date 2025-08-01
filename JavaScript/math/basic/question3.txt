@@ -1,0 +1,21 @@
+Find LCM of an array of numbers
+
+Given an array of positive integers, find the least common multiple (LCM) of all the numbers in the array.
+
+The least common multiple (LCM) of a set of integers is the smallest positive integer that is divisible by each of the integers.
+
+Examples:
+Input: arr = [12, 18, 24]
+Output: 72
+Explanation: 72 is the smallest number divisible by 12, 18, and 24
+
+Input: arr = [5, 7, 11]
+Output: 385
+Explanation: 385 is the smallest number divisible by 5, 7, and 11
+
+Constraints:
+1 <= arr.length <= 10^3
+1 <= arr[i] <= 10^6
+
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/lcm-of-given-array-elements/
