@@ -1,0 +1,22 @@
+Problem: Implement a Queue using an Array
+
+Source: Adapted from GeeksforGeeks - https://www.geeksforgeeks.org/dsa/introduction-and-array-implementation-of-queue/
+
+Implement a Queue data structure using an array with the following operations:
+
+1. enqueue(element) - Add an element to the rear of the queue
+2. dequeue() - Remove and return the element from the front of the queue
+3. front() - Return the element at the front without removing it
+4. isEmpty() - Check if the queue is empty
+5. size() - Return the number of elements in the queue
+6. display() - Display all elements in the queue
+
+Example:
+const queue = new Queue();
+queue.enqueue(1);
+queue.enqueue(2);
+queue.enqueue(3);
+console.log(queue.front()); // 1
+console.log(queue.dequeue()); // 1
+console.log(queue.size()); // 2
+queue.display(); // [2, 3]
