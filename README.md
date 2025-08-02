@@ -44,6 +44,7 @@ As of now, the following sections are fully implemented:
   - Graphs (Basic, Moderate, Advanced)
   - Linked Lists (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
