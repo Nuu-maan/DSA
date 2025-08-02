@@ -1,0 +1,22 @@
+Problem: Queue Operations - Reverse First K Elements
+
+Source: Adapted from GeeksforGeeks - https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
+
+Given a queue of integers of size n and an integer k, your task is to reverse the first k elements of the queue, leaving the other elements in the same relative order.
+
+Example:
+Input: Queue = [1, 2, 3, 4, 5], k = 3
+Output: [3, 2, 1, 4, 5]
+
+Input: Queue = [1, 2, 3, 4, 5], k = 4
+Output: [4, 3, 2, 1, 5]
+
+Input: Queue = [1, 2, 3, 4, 5], k = 1
+Output: [1, 2, 3, 4, 5]
+
+Input: Queue = [1, 2, 3, 4, 5], k = 5
+Output: [5, 4, 3, 2, 1]
+
+Constraints:
+1 <= k <= n <= 1000
+1 <= elements <= 1000
