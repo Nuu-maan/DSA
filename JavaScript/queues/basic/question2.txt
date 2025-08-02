@@ -1,0 +1,27 @@
+Problem: Implement Circular Queue
+
+Source: Adapted from GeeksforGeeks - https://www.geeksforgeeks.org/dsa/introduction-and-array-implementation-of-queue/
+
+Implement a Circular Queue data structure using an array with the following operations:
+
+1. enqueue(element) - Add an element to the rear of the queue
+2. dequeue() - Remove and return the element from the front of the queue
+3. front() - Return the element at the front without removing it
+4. rear() - Return the element at the rear without removing it
+5. isEmpty() - Check if the queue is empty
+6. isFull() - Check if the queue is full
+7. size() - Return the number of elements in the queue
+8. display() - Display all elements in the queue
+
+A circular queue is a linear data structure that follows the FIFO principle, where the last position is connected back to the first position.
+
+Example:
+const queue = new CircularQueue(3);
+queue.enqueue(1);
+queue.enqueue(2);
+queue.enqueue(3);
+console.log(queue.isFull()); // true
+console.log(queue.dequeue()); // 1
+console.log(queue.isFull()); // false
+queue.enqueue(4);
+queue.display(); // [4, 2, 3]
