@@ -1,0 +1,17 @@
+Problem: Print 1 to n using recursion
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1
+Difficulty: Basic
+
+Given a number n, print numbers from 1 to n using recursion.
+
+Example 1:
+Input: 5
+Output: 1 2 3 4 5
+
+Example 2:
+Input: 3
+Output: 1 2 3
+
+Constraints:
+1 <= n <= 10^5
