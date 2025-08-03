@@ -85,6 +85,7 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
 - [JavaScript/linked_lists/](JavaScript/linked_lists/) — Linked Lists problems and solutions
 - [JavaScript/math/](JavaScript/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/recursion/](JavaScript/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
