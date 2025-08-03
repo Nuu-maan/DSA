@@ -1,0 +1,19 @@
+Problem: Sum of first n natural numbers
+Source: GeeksforGeeks
+Link: https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1
+Difficulty: Basic
+
+Given a positive integer n, calculate the sum of the first n natural numbers using recursion.
+
+Example 1:
+Input: 5
+Output: 15
+Explanation: 1 + 2 + 3 + 4 + 5 = 15
+
+Example 2:
+Input: 3
+Output: 6
+Explanation: 1 + 2 + 3 = 6
+
+Constraints:
+1 <= n <= 1000
