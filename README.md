@@ -46,6 +46,7 @@ As of now, the following sections are fully implemented:
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Searching (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -88,6 +89,8 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/math/](JavaScript/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/queues/](JavaScript/queues/) — Queues problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/recursion/](JavaScript/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/searching/](JavaScript/searching/) — Searching problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+
 - (More topics and languages coming soon)
 
 ## 🛠️ Usage
