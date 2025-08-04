@@ -1,0 +1,21 @@
+Problem: Find the missing number in a sorted array
+Source: https://www.geeksforgeeks.org/find-the-missing-number-in-a-sorted-array/
+
+Given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in the list. One of the integers is missing in the list. Write an efficient code to find the missing integer.
+
+Input:
+- A sorted array arr[] of n-1 distinct integers (1 to n with one missing)
+
+Output:
+- Return the missing number
+
+Example:
+Input: [1, 2, 3, 5, 6, 7, 8]
+Output: 4
+Explanation: The missing number from 1 to 8 is 4.
+
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 10]
+Output: 9
+Explanation: The missing number from 1 to 10 is 9.
+
+Note: The solution should run in O(log n) time complexity.
