@@ -1,0 +1,22 @@
+Problem: Binary Search
+Source: https://www.geeksforgeeks.org/binary-search/
+
+Given a sorted array of n elements, write a function to search a given element x in the array.
+
+Input:
+- A sorted array arr[] of n elements
+- An element x to be searched in the array
+
+Output:
+- Return the index of x in the array if present, else return -1
+
+Example:
+Input: arr = [2, 3, 4, 10, 40], x = 10
+Output: 3
+Explanation: Element 10 is present at index 3.
+
+Input: arr = [2, 3, 4, 10, 40], x = 5
+Output: -1
+Explanation: Element 5 is not present in the array.
+
+Note: Implement both iterative and recursive solutions.
