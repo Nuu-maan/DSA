@@ -1,0 +1,39 @@
+Problem: Find the Kth Smallest Sum of a Matrix With Sorted Rows
+Source: https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+
+You are given an m x n matrix mat that has its rows sorted in non-decreasing order and an integer k.
+
+You are allowed to choose exactly one element from each row to form an array. Return the kth smallest array sum among all possible arrays.
+
+Input:
+- mat: A 2D array of integers where each row is sorted in non-decreasing order
+- k: An integer representing the kth smallest sum to find
+
+Output:
+- The kth smallest array sum that can be formed by taking exactly one element from each row
+
+Example 1:
+Input: mat = [[1,3,11],[2,4,6]], k = 5
+Output: 7
+Explanation: Choosing one element from each row, the first k smallest sum are:
+[1,2], [1,4], [3,2], [1,6], [3,4], [2,6], [3,6], [4,6], [1,11], [3,11], [4,11], [2,11]
+The 5th smallest sum is 7 (from [3,4]).
+
+Example 2:
+Input: mat = [[1,3,11],[2,4,6]], k = 9
+Output: 17
+
+Example 3:
+Input: mat = [[1,10,10],[1,4,5],[2,3,6]], k = 7
+Output: 9
+Explanation: The 7th smallest sum is 9 (from [1,1,7], [1,1,8], [1,4,4], [1,4,5], [1,5,3], [1,5,4], [1,1,9], [1,4,6], etc.)
+
+Constraints:
+- m == mat.length
+- n == mat[i].length
+- 1 <= m, n <= 40
+- 1 <= mat[i][j] <= 5000
+- 1 <= k <= min(200, n^m)
+- mat[i] is sorted in strictly increasing order.
+
+Note: The solution should be efficient given the constraints, likely requiring a priority queue (min-heap) approach with optimizations to handle the potentially large search space.
