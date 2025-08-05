@@ -1,0 +1,13 @@
+Bubble Sort Implementation
+
+Problem: Implement the Bubble Sort algorithm to sort an array of numbers in ascending order.
+
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+Example:
+Input: [64, 34, 25, 12, 22, 11, 90]
+Output: [11, 12, 22, 25, 34, 64, 90]
+
+Your task is to implement the bubbleSort function that takes an array of numbers and returns the sorted array.
+
+Source: https://www.geeksforgeeks.org/bubble-sort/
