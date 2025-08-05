@@ -1,0 +1,13 @@
+Selection Sort Implementation
+
+Problem: Implement the Selection Sort algorithm to sort an array of numbers in ascending order.
+
+Selection Sort is a simple sorting algorithm that works by repeatedly finding the minimum element from the unsorted part and putting it at the beginning.
+
+Example:
+Input: [64, 25, 12, 22, 11]
+Output: [11, 12, 22, 25, 64]
+
+Your task is to implement the selectionSort function that takes an array of numbers and returns the sorted array.
+
+Source: https://www.geeksforgeeks.org/selection-sort/
