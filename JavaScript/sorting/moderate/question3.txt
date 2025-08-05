@@ -1,0 +1,29 @@
+Maximum Number of Visible Points
+
+Problem: You are given an array points, an integer angle, and your location, where location = [posx, posy] and points[i] = [xi, yi] both denote integral coordinates on the X-Y plane. You are given an angle in degrees, representing your field of view. You can see some set of points if they are at most angle degrees apart in your field of view.
+
+Return the maximum number of points you can see.
+
+Example 1:
+Input: points = [[2,1],[2,2],[3,3]], angle = 90, location = [1,1]
+Output: 3
+Explanation: The figure shows your field of view. All points can be made visible in your field of view, including [3,3] even though [2,2] is in front and in the same line of sight.
+
+Example 2:
+Input: points = [[2,1],[2,2],[3,4],[1,1]], angle = 90, location = [1,1]
+Output: 4
+Explanation: All points can be made visible in your field of view, including the one at your location.
+
+Example 3:
+Input: points = [[1,0],[2,1]], angle = 13, location = [1,1]
+Output: 1
+Explanation: You can only see one of the two points, as shown above.
+
+Constraints:
+- 1 <= points.length <= 10^5
+- points[i].length == 2
+- location.length == 2
+- 0 <= angle < 360
+- 0 <= posx, posy, xi, yi <= 10^9
+
+Source: https://leetcode.com/problems/maximum-number-of-visible-points/
