@@ -1,0 +1,23 @@
+Next Greater Element
+
+Problem Statement:
+Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x is the first greater element on the right side of x in the array. Elements for which no greater element exist, consider the next greater element as -1.
+
+Examples:
+1. For an array, the next greater elements are as follows:
+   Input: [4, 5, 2, 25]
+   Output: [5, 25, 25, -1]
+   
+2. Input: [13, 7, 6, 12]
+   Output: [-1, 12, 12, -1]
+
+3. Input: [11, 13, 21, 3]
+   Output: [13, 21, -1, -1]
+
+Note: For the last element, the next greater element is always -1.
+
+Source: https://www.geeksforgeeks.org/next-greater-element/
+
+Your task is to implement a function that takes an array and returns an array containing the next greater element for each element in the input array.
+
+Note: Implement multiple approaches if possible, with time and space complexity analysis for each. The optimal solution should run in O(n) time.
