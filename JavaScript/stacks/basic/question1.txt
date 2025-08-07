@@ -1,0 +1,24 @@
+Implement Stack using Array
+
+Problem Statement:
+Implement a stack data structure using an array. The stack should support the following operations:
+1. push(x) -- Push element x onto stack.
+2. pop() -- Removes the element on top of the stack.
+3. top() -- Get the top element.
+4. isEmpty() -- Return whether the stack is empty.
+5. size() -- Return the size of the stack.
+
+You must implement the stack such that each operation is O(1) time complexity.
+
+Example:
+const stack = new Stack();
+stack.push(1);
+stack.push(2);
+stack.top();   // returns 2
+stack.pop();   // returns 2
+stack.isEmpty(); // returns false
+stack.size();  // returns 1
+
+Source: https://www.geeksforgeeks.org/stack-data-structure/
+
+Note: Implement multiple approaches if possible, with time and space complexity analysis for each.
