@@ -1,0 +1,23 @@
+Reverse Words in a String
+Source: https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+
+Given a string, the task is to reverse the order of the words in the given string. 
+
+Example 1:
+Input: "i like this program very much"
+Output: "much very program this like i"
+
+Example 2:
+Input: "  hello world  "
+Output: "world hello"
+Explanation: Your reversed string should not contain leading or trailing spaces.
+
+Example 3:
+Input: "a good   example"
+Output: "example good a"
+Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
+
+Note:
+- A word is defined as a sequence of non-space characters.
+- The input string may contain leading or trailing spaces or multiple spaces between two words.
+- The returned string should only have a single space separating the words.
