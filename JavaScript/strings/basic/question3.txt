@@ -1,0 +1,28 @@
+Longest Common Prefix
+Source: https://www.geeksforgeeks.org/longest-common-prefix-using-word-by-word-matching/
+
+Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+
+A common prefix is a string that is a prefix of all strings in the array.
+
+Example 1:
+Input: ["flower","flow","flight"]
+Output: "fl"
+
+Example 2:
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+
+Example 3:
+Input: ["interspecies", "interstellar", "interstate"]
+Output: "inters"
+
+Example 4:
+Input: [""]
+Output: ""
+
+Note:
+- All given inputs are in lowercase letters a-z.
+- The solution should efficiently handle empty arrays and empty strings.
+- Consider edge cases with very large input arrays or very long strings.
