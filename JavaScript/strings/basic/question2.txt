@@ -1,0 +1,27 @@
+Check for Anagrams
+Source: https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+
+Given two strings, write a function to determine if they are anagrams of each other.
+
+An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+Example 1:
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+Example 2:
+Input: s = "rat", t = "car"
+Output: false
+
+Example 3:
+Input: s = "listen", t = "silent"
+Output: true
+
+Example 4:
+Input: s = "aacc", t = "ccac"
+Output: false
+
+Note:
+- You may assume the string contains only lowercase alphabets.
+- Consider Unicode characters for a more general solution.
+- The solution should be case-insensitive.
