@@ -47,6 +47,9 @@ As of now, the following sections are fully implemented:
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Recursion (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Searching (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -90,6 +93,9 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/queues/](JavaScript/queues/) — Queues problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/recursion/](JavaScript/recursion/) — Recursion problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/searching/](JavaScript/searching/) — Searching problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/sorting/](JavaScript/sorting/) — Sorting problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/stacks/](JavaScript/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/strings/](JavaScript/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 - (More topics and languages coming soon)
 
