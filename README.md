@@ -42,6 +42,7 @@ As of now, the following sections are fully implemented:
   - Arrays (Basic, Moderate, Advanced)
   - Dynamic Programming (Basic, Moderate, Advanced)
   - Graphs (Basic, Moderate, Advanced)
+  - Hashmaps (Basic, Moderate, Advanced)
   - Linked Lists (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Math (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Queues (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
