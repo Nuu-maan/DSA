@@ -50,6 +50,7 @@ As of now, the following sections are fully implemented:
   - Sorting (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Stacks (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Trees (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -96,6 +97,7 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/sorting/](JavaScript/sorting/) — Sorting problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/stacks/](JavaScript/stacks/) — Stack problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/strings/](JavaScript/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [JavaScript/trees/](JavaScript/trees/) — Tree problems and solutions (Basic, Moderate, Advanced)
 
 - (More topics and languages coming soon)
 
