@@ -1,0 +1,21 @@
+Find the Maximum and Minimum Element in an Array
+Source: https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+
+Given an array of integers, find the maximum and minimum elements present in it.
+
+Example 1:
+Input: arr[] = [1000, 11, 445, 1, 330, 3000]
+Output: Minimum element is 1
+        Maximum element is 3000
+
+Example 2:
+Input: arr[] = [10, 20, 30, 40, 50]
+Output: Minimum element is 10
+        Maximum element is 50
+
+Constraints:
+- 1 <= n <= 10^5
+- -10^9 <= arr[i] <= 10^9
+
+Expected Time Complexity: O(n)
+Expected Auxiliary Space: O(1)
