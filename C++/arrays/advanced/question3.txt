@@ -1,0 +1,27 @@
+Problem: Minimum Window Subsequence
+Source: https://leetcode.com/problems/minimum-window-subsequence/
+
+Given strings s and t, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string "".
+
+A subsequence is a sequence that can be derived from another sequence by deleting zero or more elements without changing the order of the remaining elements.
+
+Example 1:
+Input: s = "abcdebdde", t = "bde"
+Output: "bcde"
+Explanation: "bcde" is the minimum window in s that contains all characters of t in order.
+
+Example 2:
+Input: s = "jmeqksfrsdcmsiwvaovztaqenprpvnbstl", t = "u"
+Output: ""
+Explanation: 'u' is not found in s.
+
+Example 3:
+Input: s = "fgrqsqsnodwmxzkzxwqegkndaa", t = "kzed"
+Output: "kzxwqegknd"
+
+Constraints:
+- 1 <= s.length <= 2 * 10^4
+- 1 <= t.length <= 100
+- s and t consist of uppercase and lowercase English letters.
+
+Follow up: Could you find an algorithm that runs in O(n) time?
