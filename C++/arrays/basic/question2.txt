@@ -1,0 +1,23 @@
+Reverse an Array
+
+Write a C++ function to reverse the elements of an array in-place.
+
+Requirements:
+1. The function should modify the original array (no new array should be created)
+2. The function should work for arrays of any size
+3. The function should handle edge cases like empty array or single element array
+4. The solution should be efficient (O(n) time complexity and O(1) space complexity)
+
+Example 1:
+Input: [1, 2, 3, 4, 5]
+Output: [5, 4, 3, 2, 1]
+
+Example 2:
+Input: [10, 20, 30]
+Output: [30, 20, 10]
+
+Example 3:
+Input: [5]
+Output: [5]
+
+Source: https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
