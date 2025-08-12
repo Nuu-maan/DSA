@@ -1,0 +1,26 @@
+Find the Kth Smallest Element in an Array
+
+Write a C++ function to find the kth smallest element in an unsorted array.
+
+Requirements:
+1. The function should return the kth smallest element (1-based index)
+2. The original array may be modified during the process
+3. You may assume that 1 ≤ k ≤ array's length
+4. The solution should be efficient (average O(n) time complexity)
+
+Example 1:
+Input: [7, 10, 4, 3, 20, 15], k = 3
+Output: 7
+Explanation: The 3rd smallest element is 7
+
+Example 2:
+Input: [1, 2, 3, 4, 5], k = 1
+Output: 1
+Explanation: The 1st smallest element is 1
+
+Example 3:
+Input: [5, 5, 5, 5, 5], k = 2
+Output: 5
+Explanation: The 2nd smallest element is still 5
+
+Source: https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
