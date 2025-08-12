@@ -53,6 +53,9 @@ As of now, the following sections are fully implemented:
   - Strings (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
   - Trees (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
+- **C++**
+  - Arrays (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+
 Each problem includes:
 - A real interview question (with source link)
 - A clean, professional solution with multiple approaches
@@ -61,9 +64,6 @@ Each problem includes:
 
 ## 🚧 Coming Soon
 
-More topics and languages are coming soon! Planned additions include:
-
-- JavaScript: Linked Lists, Math, Queues, Recursion, Searching, Sorting, Stacks, Strings, Trees
 - C++: All topics in all languages
 
 ## 📂 Table of Contents
@@ -86,7 +86,7 @@ More topics and languages are coming soon! Planned additions include:
 
 
 ### JavaScript
-- [JavaScript/arrays/](JavaScript/arrays/) — Arrays problems and solutions
+- [JavaScript/arrays/](JavaScript/arrays/) — Arrays problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/dynamic_programming/](JavaScript/dynamic_programming/) — Dynamic Programming problems and solutions
 - [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions
 - [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
@@ -100,7 +100,8 @@ More topics and languages are coming soon! Planned additions include:
 - [JavaScript/strings/](JavaScript/strings/) — String problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/trees/](JavaScript/trees/) — Tree problems and solutions (Basic, Moderate, Advanced)
 
-- (More topics and languages coming soon)
+###  C++
+- [C++/arrays/](C++/arrays/) — Arrays problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 ## 🛠️ Usage
 
