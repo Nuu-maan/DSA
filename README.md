@@ -88,7 +88,7 @@ Each problem includes:
 ### JavaScript
 - [JavaScript/arrays/](JavaScript/arrays/) — Arrays problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 - [JavaScript/dynamic_programming/](JavaScript/dynamic_programming/) — Dynamic Programming problems and solutions
-- [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions
+- [JavaScript/graphs/](JavaScript/graphs/) — Graphs problems and solutions 
 - [JavaScript/hashmaps/](JavaScript/hashmaps/) — Hashmaps problems and solutions
 - [JavaScript/linked_lists/](JavaScript/linked_lists/) — Linked Lists problems and solutions
 - [JavaScript/math/](JavaScript/math/) — Math problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
