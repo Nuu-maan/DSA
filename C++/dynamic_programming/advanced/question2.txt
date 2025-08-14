@@ -1,0 +1,17 @@
+Problem: Wildcard Matching (LC 44)
+Source: LeetCode (Hard)
+Link: https://leetcode.com/problems/wildcard-matching/
+
+Implement wildcard pattern matching with support for '?' and '*'.
+- '?' Matches any single character.
+- '*' Matches any sequence of characters (including the empty sequence).
+The matching should cover the entire input string (not partial).
+
+Example:
+Input: s = "adceb", p = "*a*b"
+Output: true
+
+Constraints:
+- 0 <= s.length, p.length <= 2000
+- s contains only lowercase English letters.
+- p contains only lowercase English letters, '?' or '*'.
