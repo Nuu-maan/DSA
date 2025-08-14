@@ -1,0 +1,12 @@
+Problem: Dungeon Game (LC 174)
+Source: LeetCode (Hard)
+Link: https://leetcode.com/problems/dungeon-game/
+
+The knight starts at the top-left corner of a dungeon grid and his goal is to rescue the princess at the bottom-right corner. Each cell contains an integer representing health points the knight gains (positive) or loses (negative). The knight's health must never drop to 0 or below.
+
+Return the knight's minimum initial health so that he can rescue the princess.
+
+Constraints:
+- m == dungeon.length, n == dungeon[i].length
+- 1 <= m, n <= 200
+- -1000 <= dungeon[i][j] <= 1000
