@@ -1,0 +1,9 @@
+Problem: Super Egg Drop (LC 887)
+Source: LeetCode (Hard)
+Link: https://leetcode.com/problems/super-egg-drop/
+
+You are given k eggs and you have access to a building with n floors from 1 to n. Each egg is identical. If an egg breaks, you cannot drop it again. Determine the minimum number of moves needed to find the critical floor F (0 <= F <= n) such that any egg dropped from above F will break, and any egg dropped from at or below F will not break.
+
+Constraints:
+- 1 <= k <= 100
+- 1 <= n <= 10^4 (can be up to 10^9 in variants)
