@@ -1,0 +1,20 @@
+Problem: Coin Change (Minimum number of coins)
+Source: GeeksforGeeks
+Problem Link: https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
+
+Given a value V and an array of denominations coins[], find the minimum number of coins that make the value V. If it's not possible to make the change, return -1.
+
+Example 1:
+Input: V = 11, coins = [1, 2, 5]
+Output: 3
+Explanation: 11 = 5 + 5 + 1
+
+Example 2:
+Input: V = 3, coins = [2]
+Output: -1
+Explanation: Cannot make 3 using only coin 2.
+
+Constraints:
+1 ≤ V ≤ 10^4
+1 ≤ coins[i] ≤ 10^4
+1 ≤ number of coin types ≤ 100
