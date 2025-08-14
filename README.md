@@ -55,6 +55,7 @@ As of now, the following sections are fully implemented:
 
 - **C++**
   - Arrays (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+  - Dynamic Programming  (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
 
 Each problem includes:
 - A real interview question (with source link)
@@ -65,6 +66,7 @@ Each problem includes:
 ## 🚧 Coming Soon
 
 - C++: All topics in all languages
+- More languages Maybe?? rust
 
 ## 📂 Table of Contents
 
@@ -102,6 +104,7 @@ Each problem includes:
 
 ###  C++
 - [C++/arrays/](C++/arrays/) — Arrays problems and solutions (Basic: GeeksforGeeks, Moderate/Advanced: LeetCode)
+- [C++/dynamic_programming/](C++/dynamic_programming/) — Dynamic Programming problems and solutions
 
 ## 🛠️ Usage
 
